@@ -1,0 +1,28 @@
+.AÑADIRUSUARIO {
+    float: left;
+    margin-left: 10%;
+    clear: both;
+    display: inline-block;
+    width:20%;
+}
+.formañadir{
+    float: left; margin-left: 10%;clear: both;
+}
+.ELIMINARUSUARIO {
+    display: inline-block;
+    width:20%;
+    margin-left: 12%;
+    margin-top: 10px;
+}
+.formeliminar{
+    margin-left: 12%;
+    display: inline-block;
+}
+.titulotabla{
+    display: inline-block;
+    clear: both;
+    float: left;
+    width: 100%;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
